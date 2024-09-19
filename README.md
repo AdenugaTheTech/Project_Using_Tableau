@@ -38,7 +38,7 @@ The dashboard should provide real-time insights into key performance indicators 
 
 3. **Cars Sold Metrics**:
 	- i. YTD Cars Sold
-	- ii. YOY Growth in Cars Sold**
+	- ii. YOY Growth in Cars Sold
 
 
 ## Problem Statement 2: Charts Requirement
