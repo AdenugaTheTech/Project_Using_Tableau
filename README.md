@@ -2,10 +2,10 @@
 
 ## Table Content
 
-| The Situation |
-| Objective |
-| Problem statement|
-| Problem statement_1 |
+| The Situation 
+| Objective 
+| Problem statement
+| Problem statement_1 
 | Conclusion |
 
 ## Project Brief
