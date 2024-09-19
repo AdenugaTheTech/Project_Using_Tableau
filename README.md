@@ -27,18 +27,18 @@ The objective of this project is to design and develop a dynamic and interactive
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to sales trends. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
  1. **Sales Overview:**:
-	i. Year-to-Date (YTD) Total Sales
-	ii. Year-over-Year (YOY) Growth in Total Sales
+	- i. Year-to-Date (YTD) Total Sales
+	- ii. Year-over-Year (YOY) Growth in Total Sales
 
 
 2. **Average Price Analysis**:
-	i. YTD Average Price
-	ii. YOY Growth in Average Price
+	- i. YTD Average Price
+	- ii. YOY Growth in Average Price
 
 
 3. **Cars Sold Metrics**:
-	i. YTD Cars Sold
-	ii. YOY Growth in Cars Sold**
+	- i. YTD Cars Sold
+	- ii. YOY Growth in Cars Sold**
 
 
 ## Problem Statement 2: Charts Requirement
